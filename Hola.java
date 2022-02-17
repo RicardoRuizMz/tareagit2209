@@ -1,1 +1,1 @@
-calss Hola{}
+calss Hola{ int edad; }
